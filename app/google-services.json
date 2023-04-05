@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689863902608",
+    "project_id": "ex90firebasechattingathena",
+    "storage_bucket": "ex90firebasechattingathena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689863902608:android:33e653934477a2ecc61f15",
+        "android_client_info": {
+          "package_name": "com.nha2023.ex90firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689863902608-0d7ndlnddchdrv7i0psreo828e9hglf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8357RwUmRMlI7iQtVd8Ulc6L02hzhB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689863902608-0d7ndlnddchdrv7i0psreo828e9hglf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
